@@ -107,4 +107,4 @@ viva video is included where the following concepts are explained:
 - importance of relational database design
 
 📎 **Viva video link:**
-
+👉 *(https://drive.google.com/drive/folders/1gFOAnFUzcnngwi1DLye_Wm7xFtqFPzjc?usp=sharing)*
