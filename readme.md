@@ -50,3 +50,15 @@ The complete database structure and relationships are illustrated in the**ERD**,
 
 ---
 
+### 📊 Entity Relationship Diagram (ERD)
+
+The Erd clearly shows:
+- primary keys (Pk)
+- Foreign Keys (Fk)
+- One-to-Many relationships
+- status fields for business logic
+
+**ERD Link**
+👉 *(drawsql:-https://drawsql.app/teams/ulakac/diagrams/practice1)*
+
+---
