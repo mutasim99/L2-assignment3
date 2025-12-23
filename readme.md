@@ -59,6 +59,6 @@ The Erd clearly shows:
 - status fields for business logic
 
 **ERD Link**
-👉 *(drawsql:-https://drawsql.app/teams/ulakac/diagrams/practice1)*
+👉 *(https://drawsql.app/teams/ulakac/diagrams/practice1)*
 
 ---
