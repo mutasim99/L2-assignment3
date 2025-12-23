@@ -98,13 +98,13 @@ Finds vehicles that have been booked **more than two times**
 
 ---
 
-## 🎤 Viva Preparation
+## 🎤 Question Answer
 
-viva video is included where the following concepts are explained:
+video is included where the following concepts are explained:
 - Primary key and Foreign key
 - Difference between WHERE and HAVING
 - INNER JOIN and LEFT JOIN
 - importance of relational database design
 
-📎 **Viva video link:**
+📎 **video link:**
 👉 *(https://drive.google.com/drive/folders/1gFOAnFUzcnngwi1DLye_Wm7xFtqFPzjc?usp=sharing)*
