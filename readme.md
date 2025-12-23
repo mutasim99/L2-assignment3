@@ -58,7 +58,7 @@ The Erd clearly shows:
 - One-to-Many relationships
 - status fields for business logic
 
-**ERD Link**
+📎 **ERD Link:**
 👉 *(https://drawsql.app/teams/ulakac/diagrams/practice1)*
 
 ---
@@ -97,3 +97,14 @@ Retrieve all **available vehicles of a specific type** (e.g., car).
 Finds vehicles that have been booked **more than two times**
 
 ---
+
+## 🎤 Viva Preparation
+
+viva video is included where the following concepts are explained:
+- Primary key and Foreign key
+- Difference between WHERE and HAVING
+- INNER JOIN and LEFT JOIN
+- importance of relational database design
+
+📎 **Viva video link:**
+
