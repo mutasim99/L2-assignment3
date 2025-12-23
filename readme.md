@@ -38,4 +38,15 @@ Stored rental transaction details such as:
 - which vehicle are booked
 - rental start and end dates
 - bookings status
-- total costs 
+- total costs
+
+### 🔗 Relationship
+
+- one user can make **many bookings**
+- one vehicle can have **many bookings**
+- each booking is linked to **exactly one user and one vehicle**
+
+The complete database structure and relationships are illustrated in the**ERD**, which is provided as public link.
+
+---
+
