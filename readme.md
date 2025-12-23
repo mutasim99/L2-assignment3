@@ -62,3 +62,38 @@ The Erd clearly shows:
 👉 *(https://drawsql.app/teams/ulakac/diagrams/practice1)*
 
 ---
+
+## 🧪 SQl Implementation
+
+All SQL code is written into `queries.sql` file.
+This file contains:
+
+1. **Create table statement**
+    - Define the database schema
+    - Includes primary keys and foreign keys
+
+2. **SQL queries to sole assignments requirements**
+    - INNER JOIN
+    - MOT EXISTS
+    - WHERE
+    - GROUP BY with HAVING
+
+Each query is clearly commented to indicate which problem is solved
+
+---
+
+## 🧠 Solved Query Requirements
+
+### 🔹 Query 1: INNER JOIN
+Retrieves bookings information along with customer name and vehicle name.
+
+### 🔹 Query 2: NOT EXISTS
+Finds all vehicles that have **never been booked**.
+
+### 🔹 Query 3: WHERE
+Retrieve all **available vehicles of a specific type** (e.g., car).
+
+### 🔹 Query 3: GROUP BY & HAVING
+Finds vehicles that have been booked **more than two times**
+
+---
